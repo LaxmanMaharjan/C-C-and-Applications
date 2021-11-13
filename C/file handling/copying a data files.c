@@ -1,3 +1,4 @@
+/*CREATION OF THE FILE WRITE AND READ AND COPY IN THE SAME PROGRAM*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
